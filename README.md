@@ -8,4 +8,6 @@ Simple Linear Regression, Multiple Linear Regression, nonLinear Regreassion.
 
 K Nearest Neighbors, Decision Tree, SVM.
 
+K-Means clustering, Hierarchical clustering.
+
 Natural Language processing of 1000 restaurant reviews.
