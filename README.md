@@ -11,3 +11,5 @@ Classification: K Nearest Neighbors, Decision Tree, SVM.
 Clustering: K-Means clustering, Hierarchical clustering, DBSCAN.
 
 Natural Language processing of 1000 restaurant reviews.
+
+Deep Learning: Artificial Neural Network,
