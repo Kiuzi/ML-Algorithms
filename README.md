@@ -12,4 +12,4 @@ Clustering: K-Means clustering, Hierarchical clustering, DBSCAN.
 
 Natural Language processing of 1000 restaurant reviews.
 
-Deep Learning: Artificial Neural Network, convolutional neural network.
+Deep Learning: Artificial Neural Network, Convolutional Neural Network (CNN).
